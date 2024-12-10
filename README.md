@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/public/images/icon.png" alt="Cognisys Labs Logo" width="120" />
+  <img src="./public/images/icon.png" alt="Cognisys Labs Logo" width="120" />
   
   # Cognisys Labs
   
