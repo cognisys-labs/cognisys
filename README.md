@@ -36,5 +36,3 @@ Our first experiment puts participants in a classic ethical dilemma:
 2. **Challenge**: Present your argument to the AI
 3. **Decision**: AI evaluates your reasoning in real-time
 4. **Reward**: Successful participants earn survivor badges and ecosystem rewards
-
-## Getting Started
